@@ -1,0 +1,6 @@
+C:\Users\luca.esslinger\source\repos\Taschenrechner V1\Taschenrechner V1\obj\Debug\Taschenrechner V1.csprojAssemblyReference.cache
+C:\Users\luca.esslinger\source\repos\Taschenrechner V1\Taschenrechner V1\bin\Debug\Taschenrechner V1.exe.config
+C:\Users\luca.esslinger\source\repos\Taschenrechner V1\Taschenrechner V1\bin\Debug\Taschenrechner V1.exe
+C:\Users\luca.esslinger\source\repos\Taschenrechner V1\Taschenrechner V1\bin\Debug\Taschenrechner V1.pdb
+C:\Users\luca.esslinger\source\repos\Taschenrechner V1\Taschenrechner V1\obj\Debug\Taschenrechner V1.exe
+C:\Users\luca.esslinger\source\repos\Taschenrechner V1\Taschenrechner V1\obj\Debug\Taschenrechner V1.pdb
