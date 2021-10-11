@@ -1,0 +1,6 @@
+C:\Users\luca.esslinger\source\repos\Boris Code Spannung\Boris Code Spannung\bin\Debug\Boris Code Spannung.exe.config
+C:\Users\luca.esslinger\source\repos\Boris Code Spannung\Boris Code Spannung\bin\Debug\Boris Code Spannung.exe
+C:\Users\luca.esslinger\source\repos\Boris Code Spannung\Boris Code Spannung\bin\Debug\Boris Code Spannung.pdb
+C:\Users\luca.esslinger\source\repos\Boris Code Spannung\Boris Code Spannung\obj\Debug\Boris Code Spannung.csprojAssemblyReference.cache
+C:\Users\luca.esslinger\source\repos\Boris Code Spannung\Boris Code Spannung\obj\Debug\Boris Code Spannung.exe
+C:\Users\luca.esslinger\source\repos\Boris Code Spannung\Boris Code Spannung\obj\Debug\Boris Code Spannung.pdb
