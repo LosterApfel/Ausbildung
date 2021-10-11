@@ -1,0 +1,6 @@
+C:\Users\luca.esslinger\source\repos\Array Übungsaufgabe\Array Übungsaufgabe\bin\Debug\Array Übungsaufgabe.exe.config
+C:\Users\luca.esslinger\source\repos\Array Übungsaufgabe\Array Übungsaufgabe\bin\Debug\Array Übungsaufgabe.exe
+C:\Users\luca.esslinger\source\repos\Array Übungsaufgabe\Array Übungsaufgabe\bin\Debug\Array Übungsaufgabe.pdb
+C:\Users\luca.esslinger\source\repos\Array Übungsaufgabe\Array Übungsaufgabe\obj\Debug\Array Übungsaufgabe.csprojAssemblyReference.cache
+C:\Users\luca.esslinger\source\repos\Array Übungsaufgabe\Array Übungsaufgabe\obj\Debug\Array Übungsaufgabe.exe
+C:\Users\luca.esslinger\source\repos\Array Übungsaufgabe\Array Übungsaufgabe\obj\Debug\Array Übungsaufgabe.pdb
