@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\2D Arrays\2D Arrays\bin\Debug\2D Arrays.exe.config
+C:\Users\LucaEßlinger\source\repos\2D Arrays\2D Arrays\bin\Debug\2D Arrays.exe
+C:\Users\LucaEßlinger\source\repos\2D Arrays\2D Arrays\bin\Debug\2D Arrays.pdb
+C:\Users\LucaEßlinger\source\repos\2D Arrays\2D Arrays\obj\Debug\2D Arrays.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\2D Arrays\2D Arrays\obj\Debug\2D Arrays.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\2D Arrays\2D Arrays\obj\Debug\2D Arrays.exe
+C:\Users\LucaEßlinger\source\repos\2D Arrays\2D Arrays\obj\Debug\2D Arrays.pdb

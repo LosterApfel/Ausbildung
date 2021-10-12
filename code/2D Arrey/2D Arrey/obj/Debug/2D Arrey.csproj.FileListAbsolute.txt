@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\2D Arrey\2D Arrey\bin\Debug\2D Arrey.exe.config
+C:\Users\LucaEßlinger\source\repos\2D Arrey\2D Arrey\bin\Debug\2D Arrey.exe
+C:\Users\LucaEßlinger\source\repos\2D Arrey\2D Arrey\bin\Debug\2D Arrey.pdb
+C:\Users\LucaEßlinger\source\repos\2D Arrey\2D Arrey\obj\Debug\2D Arrey.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\2D Arrey\2D Arrey\obj\Debug\2D Arrey.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\2D Arrey\2D Arrey\obj\Debug\2D Arrey.exe
+C:\Users\LucaEßlinger\source\repos\2D Arrey\2D Arrey\obj\Debug\2D Arrey.pdb

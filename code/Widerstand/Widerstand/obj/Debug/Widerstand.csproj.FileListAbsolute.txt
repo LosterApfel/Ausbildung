@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Widerstand\Widerstand\bin\Debug\Widerstand.exe.config
+C:\Users\LucaEßlinger\source\repos\Widerstand\Widerstand\bin\Debug\Widerstand.exe
+C:\Users\LucaEßlinger\source\repos\Widerstand\Widerstand\bin\Debug\Widerstand.pdb
+C:\Users\LucaEßlinger\source\repos\Widerstand\Widerstand\obj\Debug\Widerstand.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Widerstand\Widerstand\obj\Debug\Widerstand.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Widerstand\Widerstand\obj\Debug\Widerstand.exe
+C:\Users\LucaEßlinger\source\repos\Widerstand\Widerstand\obj\Debug\Widerstand.pdb

@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Fakultät mir Array\Fakultät mir Array\bin\Debug\Fakultät mir Array.exe.config
+C:\Users\LucaEßlinger\source\repos\Fakultät mir Array\Fakultät mir Array\bin\Debug\Fakultät mir Array.exe
+C:\Users\LucaEßlinger\source\repos\Fakultät mir Array\Fakultät mir Array\bin\Debug\Fakultät mir Array.pdb
+C:\Users\LucaEßlinger\source\repos\Fakultät mir Array\Fakultät mir Array\obj\Debug\Fakultät mir Array.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Fakultät mir Array\Fakultät mir Array\obj\Debug\Fakultät mir Array.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Fakultät mir Array\Fakultät mir Array\obj\Debug\Fakultät mir Array.exe
+C:\Users\LucaEßlinger\source\repos\Fakultät mir Array\Fakultät mir Array\obj\Debug\Fakultät mir Array.pdb

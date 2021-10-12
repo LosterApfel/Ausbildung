@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\00000\00000\bin\Debug\00000.exe.config
+C:\Users\LucaEßlinger\source\repos\00000\00000\bin\Debug\00000.exe
+C:\Users\LucaEßlinger\source\repos\00000\00000\bin\Debug\00000.pdb
+C:\Users\LucaEßlinger\source\repos\00000\00000\obj\Debug\00000.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\00000\00000\obj\Debug\00000.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\00000\00000\obj\Debug\00000.exe
+C:\Users\LucaEßlinger\source\repos\00000\00000\obj\Debug\00000.pdb

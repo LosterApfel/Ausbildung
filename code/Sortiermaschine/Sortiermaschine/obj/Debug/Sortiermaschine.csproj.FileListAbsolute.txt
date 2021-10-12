@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Sortiermaschine\Sortiermaschine\bin\Debug\Sortiermaschine.exe.config
+C:\Users\LucaEßlinger\source\repos\Sortiermaschine\Sortiermaschine\bin\Debug\Sortiermaschine.exe
+C:\Users\LucaEßlinger\source\repos\Sortiermaschine\Sortiermaschine\bin\Debug\Sortiermaschine.pdb
+C:\Users\LucaEßlinger\source\repos\Sortiermaschine\Sortiermaschine\obj\Debug\Sortiermaschine.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Sortiermaschine\Sortiermaschine\obj\Debug\Sortiermaschine.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Sortiermaschine\Sortiermaschine\obj\Debug\Sortiermaschine.exe
+C:\Users\LucaEßlinger\source\repos\Sortiermaschine\Sortiermaschine\obj\Debug\Sortiermaschine.pdb

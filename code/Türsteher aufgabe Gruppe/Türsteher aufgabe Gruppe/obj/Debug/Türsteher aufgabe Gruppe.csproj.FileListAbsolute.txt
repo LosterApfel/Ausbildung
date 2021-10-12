@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Türsteher aufgabe Gruppe\Türsteher aufgabe Gruppe\obj\Debug\Türsteher aufgabe Gruppe.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Türsteher aufgabe Gruppe\Türsteher aufgabe Gruppe\obj\Debug\Türsteher aufgabe Gruppe.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Türsteher aufgabe Gruppe\Türsteher aufgabe Gruppe\bin\Debug\Türsteher aufgabe Gruppe.exe.config
+C:\Users\LucaEßlinger\source\repos\Türsteher aufgabe Gruppe\Türsteher aufgabe Gruppe\bin\Debug\Türsteher aufgabe Gruppe.exe
+C:\Users\LucaEßlinger\source\repos\Türsteher aufgabe Gruppe\Türsteher aufgabe Gruppe\bin\Debug\Türsteher aufgabe Gruppe.pdb
+C:\Users\LucaEßlinger\source\repos\Türsteher aufgabe Gruppe\Türsteher aufgabe Gruppe\obj\Debug\Türsteher aufgabe Gruppe.exe
+C:\Users\LucaEßlinger\source\repos\Türsteher aufgabe Gruppe\Türsteher aufgabe Gruppe\obj\Debug\Türsteher aufgabe Gruppe.pdb

@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Türsteher\Türsteher\bin\Debug\Türsteher.exe.config
+C:\Users\LucaEßlinger\source\repos\Türsteher\Türsteher\bin\Debug\Türsteher.exe
+C:\Users\LucaEßlinger\source\repos\Türsteher\Türsteher\bin\Debug\Türsteher.pdb
+C:\Users\LucaEßlinger\source\repos\Türsteher\Türsteher\obj\Debug\Türsteher.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Türsteher\Türsteher\obj\Debug\Türsteher.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Türsteher\Türsteher\obj\Debug\Türsteher.exe
+C:\Users\LucaEßlinger\source\repos\Türsteher\Türsteher\obj\Debug\Türsteher.pdb

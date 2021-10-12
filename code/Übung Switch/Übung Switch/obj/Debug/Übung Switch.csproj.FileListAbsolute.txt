@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Übung Switch\Übung Switch\bin\Debug\Übung Switch.exe.config
+C:\Users\LucaEßlinger\source\repos\Übung Switch\Übung Switch\bin\Debug\Übung Switch.exe
+C:\Users\LucaEßlinger\source\repos\Übung Switch\Übung Switch\bin\Debug\Übung Switch.pdb
+C:\Users\LucaEßlinger\source\repos\Übung Switch\Übung Switch\obj\Debug\Übung Switch.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Übung Switch\Übung Switch\obj\Debug\Übung Switch.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Übung Switch\Übung Switch\obj\Debug\Übung Switch.exe
+C:\Users\LucaEßlinger\source\repos\Übung Switch\Übung Switch\obj\Debug\Übung Switch.pdb

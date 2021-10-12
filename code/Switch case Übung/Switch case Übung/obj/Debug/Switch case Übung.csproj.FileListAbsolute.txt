@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Switch case Übung\Switch case Übung\bin\Debug\Switch case Übung.exe.config
+C:\Users\LucaEßlinger\source\repos\Switch case Übung\Switch case Übung\bin\Debug\Switch case Übung.exe
+C:\Users\LucaEßlinger\source\repos\Switch case Übung\Switch case Übung\bin\Debug\Switch case Übung.pdb
+C:\Users\LucaEßlinger\source\repos\Switch case Übung\Switch case Übung\obj\Debug\Switch case Übung.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Switch case Übung\Switch case Übung\obj\Debug\Switch case Übung.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Switch case Übung\Switch case Übung\obj\Debug\Switch case Übung.exe
+C:\Users\LucaEßlinger\source\repos\Switch case Übung\Switch case Übung\obj\Debug\Switch case Übung.pdb

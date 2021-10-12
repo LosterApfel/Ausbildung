@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\fsdfsdsdsdsdf\fsdfsdsdsdsdf\obj\Debug\fsdfsdsdsdsdf.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\fsdfsdsdsdsdf\fsdfsdsdsdsdf\obj\Debug\fsdfsdsdsdsdf.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\fsdfsdsdsdsdf\fsdfsdsdsdsdf\bin\Debug\fsdfsdsdsdsdf.exe.config
+C:\Users\LucaEßlinger\source\repos\fsdfsdsdsdsdf\fsdfsdsdsdsdf\bin\Debug\fsdfsdsdsdsdf.exe
+C:\Users\LucaEßlinger\source\repos\fsdfsdsdsdsdf\fsdfsdsdsdsdf\bin\Debug\fsdfsdsdsdsdf.pdb
+C:\Users\LucaEßlinger\source\repos\fsdfsdsdsdsdf\fsdfsdsdsdsdf\obj\Debug\fsdfsdsdsdsdf.exe
+C:\Users\LucaEßlinger\source\repos\fsdfsdsdsdsdf\fsdfsdsdsdsdf\obj\Debug\fsdfsdsdsdsdf.pdb

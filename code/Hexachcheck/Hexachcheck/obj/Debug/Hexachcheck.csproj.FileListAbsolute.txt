@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Hexachcheck\Hexachcheck\obj\Debug\Hexachcheck.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Hexachcheck\Hexachcheck\obj\Debug\Hexachcheck.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Hexachcheck\Hexachcheck\bin\Debug\Hexachcheck.exe.config
+C:\Users\LucaEßlinger\source\repos\Hexachcheck\Hexachcheck\bin\Debug\Hexachcheck.exe
+C:\Users\LucaEßlinger\source\repos\Hexachcheck\Hexachcheck\bin\Debug\Hexachcheck.pdb
+C:\Users\LucaEßlinger\source\repos\Hexachcheck\Hexachcheck\obj\Debug\Hexachcheck.exe
+C:\Users\LucaEßlinger\source\repos\Hexachcheck\Hexachcheck\obj\Debug\Hexachcheck.pdb

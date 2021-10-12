@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\AB 6\AB 6\bin\Debug\AB 6.exe.config
+C:\Users\LucaEßlinger\source\repos\AB 6\AB 6\bin\Debug\AB 6.exe
+C:\Users\LucaEßlinger\source\repos\AB 6\AB 6\bin\Debug\AB 6.pdb
+C:\Users\LucaEßlinger\source\repos\AB 6\AB 6\obj\Debug\AB 6.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\AB 6\AB 6\obj\Debug\AB 6.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\AB 6\AB 6\obj\Debug\AB 6.exe
+C:\Users\LucaEßlinger\source\repos\AB 6\AB 6\obj\Debug\AB 6.pdb

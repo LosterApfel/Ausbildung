@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Switch Statemant Übung\Switch Statemant Übung\bin\Debug\Switch Statemant Übung.exe.config
+C:\Users\LucaEßlinger\source\repos\Switch Statemant Übung\Switch Statemant Übung\bin\Debug\Switch Statemant Übung.exe
+C:\Users\LucaEßlinger\source\repos\Switch Statemant Übung\Switch Statemant Übung\bin\Debug\Switch Statemant Übung.pdb
+C:\Users\LucaEßlinger\source\repos\Switch Statemant Übung\Switch Statemant Übung\obj\Debug\Switch Statemant Übung.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Switch Statemant Übung\Switch Statemant Übung\obj\Debug\Switch Statemant Übung.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Switch Statemant Übung\Switch Statemant Übung\obj\Debug\Switch Statemant Übung.exe
+C:\Users\LucaEßlinger\source\repos\Switch Statemant Übung\Switch Statemant Übung\obj\Debug\Switch Statemant Übung.pdb

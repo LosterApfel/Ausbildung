@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Zahlenratenspiel\Zahlenratenspiel\bin\Debug\Zahlenratenspiel.exe.config
+C:\Users\LucaEßlinger\source\repos\Zahlenratenspiel\Zahlenratenspiel\bin\Debug\Zahlenratenspiel.exe
+C:\Users\LucaEßlinger\source\repos\Zahlenratenspiel\Zahlenratenspiel\bin\Debug\Zahlenratenspiel.pdb
+C:\Users\LucaEßlinger\source\repos\Zahlenratenspiel\Zahlenratenspiel\obj\Debug\Zahlenratenspiel.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Zahlenratenspiel\Zahlenratenspiel\obj\Debug\Zahlenratenspiel.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Zahlenratenspiel\Zahlenratenspiel\obj\Debug\Zahlenratenspiel.exe
+C:\Users\LucaEßlinger\source\repos\Zahlenratenspiel\Zahlenratenspiel\obj\Debug\Zahlenratenspiel.pdb

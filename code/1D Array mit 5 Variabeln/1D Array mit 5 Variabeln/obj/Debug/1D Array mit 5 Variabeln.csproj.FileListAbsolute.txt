@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\1D Array mit 5 Variabeln\1D Array mit 5 Variabeln\bin\Debug\1D Array mit 5 Variabeln.exe.config
+C:\Users\LucaEßlinger\source\repos\1D Array mit 5 Variabeln\1D Array mit 5 Variabeln\bin\Debug\1D Array mit 5 Variabeln.exe
+C:\Users\LucaEßlinger\source\repos\1D Array mit 5 Variabeln\1D Array mit 5 Variabeln\bin\Debug\1D Array mit 5 Variabeln.pdb
+C:\Users\LucaEßlinger\source\repos\1D Array mit 5 Variabeln\1D Array mit 5 Variabeln\obj\Debug\1D Array mit 5 Variabeln.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\1D Array mit 5 Variabeln\1D Array mit 5 Variabeln\obj\Debug\1D Array mit 5 Variabeln.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\1D Array mit 5 Variabeln\1D Array mit 5 Variabeln\obj\Debug\1D Array mit 5 Variabeln.exe
+C:\Users\LucaEßlinger\source\repos\1D Array mit 5 Variabeln\1D Array mit 5 Variabeln\obj\Debug\1D Array mit 5 Variabeln.pdb

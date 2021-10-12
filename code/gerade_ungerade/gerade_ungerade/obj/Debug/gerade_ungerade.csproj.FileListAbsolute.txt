@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\gerade_ungerade\gerade_ungerade\bin\Debug\gerade_ungerade.exe.config
+C:\Users\LucaEßlinger\source\repos\gerade_ungerade\gerade_ungerade\bin\Debug\gerade_ungerade.exe
+C:\Users\LucaEßlinger\source\repos\gerade_ungerade\gerade_ungerade\bin\Debug\gerade_ungerade.pdb
+C:\Users\LucaEßlinger\source\repos\gerade_ungerade\gerade_ungerade\obj\Debug\gerade_ungerade.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\gerade_ungerade\gerade_ungerade\obj\Debug\gerade_ungerade.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\gerade_ungerade\gerade_ungerade\obj\Debug\gerade_ungerade.exe
+C:\Users\LucaEßlinger\source\repos\gerade_ungerade\gerade_ungerade\obj\Debug\gerade_ungerade.pdb

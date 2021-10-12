@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Fakultät_2\Fakultät_2\bin\Debug\Fakultät_2.exe.config
+C:\Users\LucaEßlinger\source\repos\Fakultät_2\Fakultät_2\bin\Debug\Fakultät_2.exe
+C:\Users\LucaEßlinger\source\repos\Fakultät_2\Fakultät_2\bin\Debug\Fakultät_2.pdb
+C:\Users\LucaEßlinger\source\repos\Fakultät_2\Fakultät_2\obj\Debug\Fakultät_2.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Fakultät_2\Fakultät_2\obj\Debug\Fakultät_2.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Fakultät_2\Fakultät_2\obj\Debug\Fakultät_2.exe
+C:\Users\LucaEßlinger\source\repos\Fakultät_2\Fakultät_2\obj\Debug\Fakultät_2.pdb

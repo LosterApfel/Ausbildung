@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Arbeit\Arbeit\obj\Debug\Arbeit.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Arbeit\Arbeit\obj\Debug\Arbeit.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Arbeit\Arbeit\bin\Debug\Arbeit.exe.config
+C:\Users\LucaEßlinger\source\repos\Arbeit\Arbeit\bin\Debug\Arbeit.exe
+C:\Users\LucaEßlinger\source\repos\Arbeit\Arbeit\bin\Debug\Arbeit.pdb
+C:\Users\LucaEßlinger\source\repos\Arbeit\Arbeit\obj\Debug\Arbeit.exe
+C:\Users\LucaEßlinger\source\repos\Arbeit\Arbeit\obj\Debug\Arbeit.pdb

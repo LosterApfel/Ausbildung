@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\Hakki Zahlenraten\Hakki Zahlenraten\obj\Debug\Hakki Zahlenraten.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Hakki Zahlenraten\Hakki Zahlenraten\obj\Debug\Hakki Zahlenraten.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Hakki Zahlenraten\Hakki Zahlenraten\bin\Debug\Hakki Zahlenraten.exe.config
+C:\Users\LucaEßlinger\source\repos\Hakki Zahlenraten\Hakki Zahlenraten\bin\Debug\Hakki Zahlenraten.exe
+C:\Users\LucaEßlinger\source\repos\Hakki Zahlenraten\Hakki Zahlenraten\bin\Debug\Hakki Zahlenraten.pdb
+C:\Users\LucaEßlinger\source\repos\Hakki Zahlenraten\Hakki Zahlenraten\obj\Debug\Hakki Zahlenraten.exe
+C:\Users\LucaEßlinger\source\repos\Hakki Zahlenraten\Hakki Zahlenraten\obj\Debug\Hakki Zahlenraten.pdb

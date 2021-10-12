@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\source\repos\1D Array Zahlen\1D Array Zahlen\bin\Debug\1D Array Zahlen.exe.config
+C:\Users\LucaEßlinger\source\repos\1D Array Zahlen\1D Array Zahlen\bin\Debug\1D Array Zahlen.exe
+C:\Users\LucaEßlinger\source\repos\1D Array Zahlen\1D Array Zahlen\bin\Debug\1D Array Zahlen.pdb
+C:\Users\LucaEßlinger\source\repos\1D Array Zahlen\1D Array Zahlen\obj\Debug\1D Array Zahlen.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\1D Array Zahlen\1D Array Zahlen\obj\Debug\1D Array Zahlen.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\1D Array Zahlen\1D Array Zahlen\obj\Debug\1D Array Zahlen.exe
+C:\Users\LucaEßlinger\source\repos\1D Array Zahlen\1D Array Zahlen\obj\Debug\1D Array Zahlen.pdb
