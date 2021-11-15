@@ -1,0 +1,13 @@
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\bin\Debug\netcoreapp3.1\Array Übung Aufgabe 1.exe
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\bin\Debug\netcoreapp3.1\Array Übung Aufgabe 1.deps.json
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\bin\Debug\netcoreapp3.1\Array Übung Aufgabe 1.runtimeconfig.json
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\bin\Debug\netcoreapp3.1\Array Übung Aufgabe 1.runtimeconfig.dev.json
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\bin\Debug\netcoreapp3.1\Array Übung Aufgabe 1.dll
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\bin\Debug\netcoreapp3.1\Array Übung Aufgabe 1.pdb
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\obj\Debug\netcoreapp3.1\Array Übung Aufgabe 1.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\obj\Debug\netcoreapp3.1\Array Übung Aufgabe 1.AssemblyInfoInputs.cache
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\obj\Debug\netcoreapp3.1\Array Übung Aufgabe 1.AssemblyInfo.cs
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\obj\Debug\netcoreapp3.1\Array Übung Aufgabe 1.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\obj\Debug\netcoreapp3.1\Array Übung Aufgabe 1.dll
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\obj\Debug\netcoreapp3.1\Array Übung Aufgabe 1.pdb
+C:\Users\LucaEßlinger\source\repos\Array Übung Aufgabe 1\Array Übung Aufgabe 1\obj\Debug\netcoreapp3.1\Array Übung Aufgabe 1.genruntimeconfig.cache
